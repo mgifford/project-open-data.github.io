@@ -58,9 +58,9 @@ This section is a list of ready-to-use solutions or tools that will help agencie
 
 #### Data Catalog Tools
 
-4-1 [Project Open Data Dashboard](http://labs.data.gov/dashboard/) - A dashboard to check the status of /data and /data.json at each agency. This also includes a validator.
+4-1 [Project Open Data Dashboard](http://labs.data.gov/dashboard/) - A dashboard to check the status of /data and /data.json at each agency. This also includes a validator. MIT License on GitHub.
 
-4-2 [Data.json validator](http://labs.data.gov/dashboard/validate) - This validator can help you check compliance with the Project Open Data schema.
+4-2 [Data.json validator](http://labs.data.gov/dashboard/validate) - This validator can help you check compliance with the Project Open Data schema. MIT License on GitHub.
 
 4-3 [Data.json File Merger](http://data.json.file.merger.ongithub.com/) - Allows the easy combination of multiple data.json files from component agencies or bureaus into one combined file.
 
